@@ -524,6 +524,10 @@ body {
   position: fixed;
 }
 
+.absolute{
+  position: absolute;
+}
+
 .right-\[0\]{
   right: 0;
 }
@@ -542,6 +546,10 @@ body {
 
 .right-0{
   right: 0px;
+}
+
+.left-0{
+  left: 0px;
 }
 
 .z-50{
@@ -631,6 +639,10 @@ body {
 
 .ml-\[26px\]{
   margin-left: 26px;
+}
+
+.mt-\[40px\]{
+  margin-top: 40px;
 }
 
 .flex{
@@ -806,6 +818,11 @@ body {
   padding-right: 27px;
 }
 
+.px-\[15px\]{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .pt-\[28px\]{
   padding-top: 28px;
 }
@@ -976,9 +993,22 @@ body {
   color: hsl(35 77% 62% / var(--tw-text-opacity));
 }
 
+.hover\:text-veryDarkBlue:hover{
+  --tw-text-opacity: 1;
+  color: hsl(240 100% 5% / var(--tw-text-opacity));
+}
+
 @media (min-width: 768px){
+  .md\:bottom-0{
+    bottom: 0px;
+  }
+
   .md\:z-0{
     z-index: 0;
+  }
+
+  .md\:mt-0{
+    margin-top: 0px;
   }
 
   .md\:flex{
@@ -991,6 +1021,10 @@ body {
 
   .md\:w-48{
     width: 12rem;
+  }
+
+  .md\:w-full{
+    width: 100%;
   }
 
   .md\:rounded-none{
