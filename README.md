@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://res.cloudinary.com/dz209s6jk/image/upload/v1659630257/Challenges/lpjh2nrqlvjzitl4hlhx.jpg" alt="frontendmentor" width="80">
+  
 
   <h2 align="center">News homepage</h2>
   <p align="center">
