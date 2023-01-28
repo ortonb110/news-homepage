@@ -27,8 +27,7 @@ function NAVBAR() {
       </a>
       <ul
         className={` ${
-          menuIsActive ? "right-0" : ""
-        }  text-veryDarkBlue capitalize flex lg:justify-between lg:w-[431px] lg:flex-row lg:space-y-[0px] lg:py-[0px] lg:h-0 flex-col space-y-[24px] lg:px-[0px] px-[53px] py-[27.3px] w-[70%] fixed right-[-70%]  lg:static bg-offWhite h-screen z-50 md:z-0  transition-all ease-in-out duration-300 `}
+          menuIsActive ? "right-[0px] text-veryDarkBlue" : ""}  text-grayishBlue capitalize flex lg:justify-between lg:w-[431px] lg:flex-row lg:space-y-[0px] lg:py-[0px] lg:h-0 flex-col space-y-[24px] lg:px-[0px] px-[53px] py-[27.3px] w-[70%] fixed right-[-70%]  lg:static bg-offWhite h-screen z-50 md:z-0  transition-all ease-in-out duration-300 `}
       >
         <li>
           <img

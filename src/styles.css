@@ -540,6 +540,14 @@ body {
   right: -70%;
 }
 
+.right-\[\]{
+  right: ;
+}
+
+.right-\[0px\]{
+  right: 0px;
+}
+
 .z-50{
   z-index: 50;
 }
@@ -1073,5 +1081,9 @@ body {
 
   .lg\:pt-\[70px\]{
     padding-top: 70px;
+  }
+
+  .lg\:pt-\[97px\]{
+    padding-top: 97px;
   }
 }
