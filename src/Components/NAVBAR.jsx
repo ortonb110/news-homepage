@@ -22,7 +22,7 @@ function NAVBAR() {
         <img
           src={logo}
           alt="Web news logo"
-          className="w-[46.98px] lg:w-[64.09px] pt-[28px] pl-[16px] lg:pt-[40px] lg:pl-0 lg:mt-[0px] lg:ml-[0px]"
+          className="w-[46.98px] lg:w-[64.09px] pt-[28px] pl-[16px] lg:pt-[0px] lg:pl-0 lg:mt-[0px] lg:ml-[0px]"
         />
       </a>
       <ul

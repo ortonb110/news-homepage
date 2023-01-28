@@ -5,7 +5,7 @@ import NEWSLINK from "./Components/NEWSLINK";
 
 function App() {
   return (
-    <div className="  lg:pt-[50px] lg:w-[1110px]  lg:mx-auto h-screen">
+    <div className="  lg:pt-[70px] lg:w-[1110px]  lg:mx-auto h-screen">
       <NAVBAR />
       <NEWS />
       <NEWSLINK />
