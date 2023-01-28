@@ -1086,4 +1086,12 @@ body {
   .lg\:pt-\[97px\]{
     padding-top: 97px;
   }
+
+  .lg\:pt-\[9px\]{
+    padding-top: 9px;
+  }
+
+  .lg\:pt-\[93px\]{
+    padding-top: 93px;
+  }
 }
