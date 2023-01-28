@@ -9,9 +9,10 @@ function App() {
   
 
   return (
-    <div className='  lg:py-[97px] lg:px-[165px]'>
+    <div className='  lg:pt-[50px] lg:w-[1110px]  lg:mx-auto h-screen'>
       <NAVBAR/>
-      
+      <NEWS/>
+      <NEWSLINK/>
     </div>
   )
 }

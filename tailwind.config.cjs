@@ -15,6 +15,7 @@ module.exports = {
       'grayishBlue': 'hsl(233, 8%, 79%)',
       'darkGrayishBlue': 'hsl(236, 13%, 42%)',
       'veryDarkBlue': 'hsl(240, 100%, 5%)',
+      'white': '#FFF',
     },
   },
   plugins: [],
